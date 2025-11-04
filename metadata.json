@@ -1,0 +1,8 @@
+{
+  "name": "ENGIPLEX AURA",
+  "description": "A sleek, conversational AI interface powered by Gemini. Engage in dynamic, real-time conversations with ENGIPLEX AURA for information, brainstorming, and creative exploration.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
